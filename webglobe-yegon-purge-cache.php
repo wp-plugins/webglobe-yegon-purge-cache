@@ -2,7 +2,7 @@
 /*
 Plugin Name: WY Purge Cache
 Description: Purges the nginx proxy cache when you publish or update a post or page.
-Version: 0.0.1
+Version: 1.0
 Author: Webglobe - Yegon s.r.o.
 */
 
