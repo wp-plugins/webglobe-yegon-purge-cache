@@ -2,7 +2,7 @@
 Contributors: webglobe-yegon
 Tags: nginx, proxy, cache, purge
 Requires at least: 4.0
-Tested up to: 4.2.2
+Tested up to: 4.4
 Stable tag: 1.0
 
 Automatic cache purge when the content is updated. Works only with specialized hosting plans from Webglobe - Yegon.
